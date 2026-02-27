@@ -55,11 +55,6 @@ export function Footer() {
               </li>
               <li>
                 <span className="cursor-pointer text-sm text-muted-foreground hover:text-foreground">
-                  Press
-                </span>
-              </li>
-              <li>
-                <span className="cursor-pointer text-sm text-muted-foreground hover:text-foreground">
                   Contact
                 </span>
               </li>
